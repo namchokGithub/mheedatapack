@@ -13,7 +13,7 @@ try to create data-pack for Minecraft
 
 ### List of recipes 😻
 
-##### Note 📕
+##### Note
 [bt = blasting](#blasting) &nbsp; <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/f/f2/Lit_Blast_Furnace_JE1_BE1.gif?version=97317194cce88bdc8042b8a18c9bfd93" height="28" alt="blasting">
 
 [cp = campfire ](#campfire) &nbsp; <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/9/91/Campfire_JE2_BE2.gif?version=5caf12368f3d2230072c64f26eed3555" height="28" alt="campfire">
