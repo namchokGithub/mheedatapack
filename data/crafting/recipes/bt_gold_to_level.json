@@ -3,7 +3,7 @@
     "ingredient": {
         "item": "minecraft:gold_ingot"
     },
-    "result": "minecraft:gold_nugget",
+    "result": "minecraft:experience_bottle",
     "experience": 100,
-    "cookingtime": 100
+    "cookingtime": 500
 }
