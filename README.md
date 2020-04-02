@@ -15,17 +15,17 @@ try to create data-pack for Minecraft
 
 ##### Note 📕 <br>
 [bt = blasting](#blasting) &nbsp; <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/f/f2/Lit_Blast_Furnace_JE1_BE1.gif?version=97317194cce88bdc8042b8a18c9bfd93" height="28" alt="blasting">
-###### cp = campfire &nbsp; <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/9/91/Campfire_JE2_BE2.gif?version=5caf12368f3d2230072c64f26eed3555" height="28" alt="campfire">
+[cp = campfire ](#campfire) &nbsp; <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/9/91/Campfire_JE2_BE2.gif?version=5caf12368f3d2230072c64f26eed3555" height="28" alt="campfire">
 ###### ct = crafting &nbsp; <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/9/93/Crafting_Table_JE3_BE2.png?version=1f8c3e8095ea3370326efd9e93ab6cd2" height="28" alt="crafting">
 ###### fn = furnace &nbsp; <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/1/14/Lit_Furnace.png?version=349d3c0431996e9e1d124e2d2c9696f6" height="28" alt="furnace">
 ###### sm = smoker &nbsp; <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/5/50/Lit_Smoker.gif?version=c60f2d5eb176b6573c33a6803c7cb0a0" height="28" alt="smoker">
 ###### st = stone cutter &nbsp; <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/6/6b/Stonecutter.gif?version=a932b2962ac750b7fb1e31bf3fb7876f" height="28" alt="stonecutter">
 
-# Blasting &nbsp; <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/f/f2/Lit_Blast_Furnace_JE1_BE1.gif?version=97317194cce88bdc8042b8a18c9bfd93" height="30" alt="blasting"> <br><br>
+##### Blasting &nbsp; <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/f/f2/Lit_Blast_Furnace_JE1_BE1.gif?version=97317194cce88bdc8042b8a18c9bfd93" height="30" alt="blasting"> <br><br>
       1. Blast the Gold to get Level 🥉 <br><br>
       <img src="https://s3-ap-southeast-1.amazonaws.com/img-in-th/9b55fc99e4c5aab5edfa5ff1a2c10960.jpg" alt="9b55fc99e4c5aab5edfa5ff1a2c10960.jpg" border="0" /><br>
 
-- Campfire &nbsp; <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/9/91/Campfire_JE2_BE2.gif?version=5caf12368f3d2230072c64f26eed3555" height="28" alt="campfire"> <br><br>
+##### Campfire &nbsp; <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/9/91/Campfire_JE2_BE2.gif?version=5caf12368f3d2230072c64f26eed3555" height="28" alt="campfire"> <br><br>
       1. Grill mushroom to get mushroom stew 🍄 <br><br>
       ![212a7fec39c985e2a3744fa749c055e7.jpg](https://s3-ap-southeast-1.amazonaws.com/img-in-th/212a7fec39c985e2a3744fa749c055e7.jpg) <br>
 
