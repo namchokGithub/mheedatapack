@@ -1,13 +1,16 @@
 # mheedatapack
 try to create data-pack for Minecraft 
 
-### Mhee datapack 🐻
+# Mhee datapack 🐻
 
-- ✔ version 0.0.1 
+✔ version 0.0.1 
   <br> start project | 2020-04-02
 
-- ✔ version 0.0.2
+✔ version 0.0.2
   <br> Test to add recipes | 2020-04-02
+
+✔ version 0.0.3
+  <br> Update count of item | 2020-04-02
 
 ***
 
