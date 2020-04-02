@@ -13,3 +13,11 @@ try to create data-pack for Minecraft
 <hr>
 
 <h4> List of recipes 😻 </h4>
+
+  - note <br>
+    -- bt = blasting
+    -- ct = crafting
+    -- cp = campfire
+    -- fn = furnace
+    -- sm = smoking
+    -- st = stonecustter 
