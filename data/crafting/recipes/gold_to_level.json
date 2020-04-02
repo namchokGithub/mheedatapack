@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:gold_ingot"
+    },
+    "result": "minecraft:gold_nugget",
+    "experience": 100,
+    "cookingtime": 100
+}

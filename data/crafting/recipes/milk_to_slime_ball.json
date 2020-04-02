@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "M"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:wheat"
+        },
+        "M": {
+            "item": "minecraft:milk_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:slime_ball",
+        "count": 16
+    }
+}

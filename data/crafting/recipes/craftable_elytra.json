@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#O#",
+        "PPP",
+        "P P"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:redstone"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        },
+        "P": {
+            "item": "minecraft:phantom_membrane"
+        }
+    },
+    "result": {
+        "item": "minecraft:elytra",
+        "count": 1
+    }
+}
