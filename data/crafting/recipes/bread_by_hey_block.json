@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "minecraft:hay_block"
+    },
+    "result": "minecraft:bread",
+    "count": 64,
+    "experience": 10,
+    "cookingtime": 200
+}
