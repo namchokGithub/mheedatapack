@@ -1,7 +1,8 @@
 # mheedatapack
-# try to create data-pack for Minecraft
 
-<h1> Mhee datapack </h1>
+try to create data-pack for Minecraft
+
+<h4> Mhee datapack </h4>
 
 - version 0.0.1 
   start project
