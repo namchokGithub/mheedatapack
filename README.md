@@ -1,6 +1,3 @@
-# mheedatapack
-try to create data-pack for Minecraft 
-
 # Mhee datapack 🐻
 
 ✔ version 0.0.1 
