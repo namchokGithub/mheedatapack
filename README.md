@@ -9,6 +9,13 @@
 ✔ version 0.0.3
   <br> Update count of item | 2020-04-02
 
+✔ version 0.1.0
+  <br> Add item recycle - gold item | 2020-04-07
+
+***
+
+[Recycle Item](#recycle)
+
 ***
 
 ### List of recipes 😻
@@ -45,7 +52,7 @@
       1. Craft elytra with redstone obsidian and phantom membrane 🦉 <br><br>
       ![329a3473fdcb477eacd476ab147de2c0.jpg](https://s3-ap-southeast-1.amazonaws.com/img-in-th/329a3473fdcb477eacd476ab147de2c0.jpg) <br><br>
       2. Craft slime ball with wheat and water or milk 🥛 <br><br>
-      ![493d8e838a2795839ab1c48f89216c5b.jpg](https://s3-ap-southeast-1.amazonaws.com/img-in-th/493d8e838a2795839ab1c48f89216c5b.jpg)<br><br>
+      ![493d8e838a2795839ab1c48f89216c5b.jpg](https://s3-ap-southeast-1.amazonaws.com/img-in-th/493d8e838a2795839ab1c48f89216c5b.jpg) <br><br>
       ![fd5a04c010b14969083e268ccd10250c.jpg](https://s3-ap-southeast-1.amazonaws.com/img-in-th/fd5a04c010b14969083e268ccd10250c.jpg) <br>
 
 [Go to note](#note)
@@ -70,6 +77,10 @@
 
 [Go to note](#note)
 
+***
+### Recycle
+
+- Gold Item
 ___
 
 ### Created by Namchok and generated with TheDestruc7i0n's crafting generator: https://crafting.thedestruc7i0n.ca 💗🧡💛💚💙💜🤍

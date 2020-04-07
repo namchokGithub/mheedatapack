@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+        "item": "minecraft:golden_pickaxe"
+    }],
+    "result": {
+        "item": "minecraft:gold_ingot",
+        "count": 2
+    },
+    "group": "Recycling"
+}
