@@ -1,11 +1,9 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [{
+    "type": "minecraft:smelting",
+    "ingredient": {
         "item": "minecraft:golden_leggings"
-    }],
-    "result": {
-        "item": "minecraft:gold_ingot",
-        "count": 3
     },
-    "group": "Recycling"
+    "result": "minecraft:gold_ingot",
+    "experience": 30,
+    "cookingtime": 200
 }
