@@ -12,6 +12,9 @@
 ✔ version 0.1.0
   <br> Add item recycle - gold item | 2020-04-07
 
+✔ version 0.1.1
+  <br> Update uub folder of recycle | 2020-04-08
+
 ***
 
 [Recycle Item](#recycle)
