@@ -1,11 +1,9 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [{
+    "type": "minecraft:smelting",
+    "ingredient": {
         "item": "minecraft:golden_axe"
-    }],
-    "result": {
-        "item": "minecraft:gold_ingot",
-        "count": 1
     },
-    "group": "Recycling"
+    "result": "minecraft:gold_ingot",
+    "experience": 10,
+    "cookingtime": 200
 }
