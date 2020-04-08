@@ -1,9 +1,9 @@
 {
     "type": "minecraft:smelting",
     "ingredient": {
-        "item": "minecraft:golden_boots"
+        "item": "minecraft:golden_chestplate"
     },
     "result": "minecraft:gold_ingot",
-    "experience": 20,
+    "experience": 100,
     "cookingtime": 200
 }

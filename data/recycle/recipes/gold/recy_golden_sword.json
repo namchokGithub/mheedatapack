@@ -1,9 +1,9 @@
 {
     "type": "minecraft:smelting",
     "ingredient": {
-        "item": "minecraft:golden_shovel"
+        "item": "minecraft:golden_sword"
     },
     "result": "minecraft:gold_ingot",
-    "experience": 10,
-    "cookingtime": 200
+    "experience": 300,
+    "cookingtime": 500
 }

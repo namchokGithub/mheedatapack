@@ -1,9 +1,9 @@
 {
     "type": "minecraft:smelting",
     "ingredient": {
-        "item": "minecraft:golden_hoe"
+        "item": "minecraft:golden_helmet"
     },
     "result": "minecraft:gold_ingot",
-    "experience": 10,
+    "experience": 100,
     "cookingtime": 200
 }

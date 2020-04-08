@@ -1,9 +1,9 @@
 {
     "type": "minecraft:smelting",
     "ingredient": {
-        "item": "minecraft:golden_helmet"
+        "item": "minecraft:golden_pickaxe"
     },
     "result": "minecraft:gold_ingot",
-    "experience": 10,
+    "experience": 100,
     "cookingtime": 200
 }
