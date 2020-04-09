@@ -1,1 +1,1 @@
-{"hello":{"$func":["tick"]}}
+{"hello":{"$func":["newlogin","newlogin","tick","enter","logout","text"]}}
