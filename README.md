@@ -15,6 +15,9 @@
 ✔ version 0.1.1
   <br> Update uub folder of recycle | 2020-04-08
 
+✔ version 0.2.0
+  <br> Add text Hello (Function) | 2020-04-10
+
 ***
 
 [Recycle Item](#recycle)
