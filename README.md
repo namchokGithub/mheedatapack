@@ -18,6 +18,9 @@
 ✔ version 0.2.0
   <br> Add text Hello (Function) | 2020-04-10
 
+✔ version 0.3.0
+  <br> Grow trees. Credit	skunkmunkee | 2020-04-10
+
 ***
 
 [Recycle Item](#recycle)
