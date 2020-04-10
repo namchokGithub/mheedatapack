@@ -1,1 +1,1 @@
-{"hello":{"$func":["newlogin","newlogin","tick","enter","logout","text","load"]},"twerk_tree":{"$func":["loaded","twerk_trees"]},"twerk_tree.raycast":{"$func":["hit_block","load","ray","start_ray"]}}
+{"hello":{"$func":["newlogin","newlogin","tick","enter","logout","text","load"]},"twerk_tree":{"$func":["loaded","twerk_trees"]},"twerk_tree.raycast":{"$func":["hit_block","load","ray","start_ray"]},"autocrops":{"$func":["check","install","replant","tick","uninstall","load"],"replant":{"$func":["nether_wart","carrots","beetroots","potatoes","cocoa","wheat"]}}}

@@ -1,6 +1,7 @@
 {
     "values": [
         "hello:tick",
-        "twerk_tree:twerk_trees"
+        "twerk_tree:twerk_trees",
+        "autocrops:tick"
     ]
 }

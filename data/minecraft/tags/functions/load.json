@@ -2,6 +2,7 @@
     "values": [
         "twerk_tree:loaded",
         "twerk_tree.raycast:load",
-        "hello:load"
+        "hello:load",
+        "autocrops:load"
     ]
 }
