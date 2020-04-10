@@ -2,7 +2,7 @@
 scoreboard players enable @a twerk_tree.opt
 
 # Repeat of loading message
-execute as @a[scores={twerk_tree.opt=1}] run tellraw @s {"text":"Hi!"}
+execute as @a[scores={twerk_tree.opt=1}] run tellraw @s {"text":"Hi!"}  
 # Makes armorstands glow for 10 more sec
 execute as @a[scores={twerk_tree.opt=5}] at @s as @e[type=armor_stand,tag=twerk_tree.growth,distance=..20] run data merge entity @s {Glowing:1b,Marker:0b}
 execute as @a[scores={twerk_tree.opt=5}] at @s run tellraw @a[distance=..20] {"text":"twerk_tree Armorstands around your area have been revealed!","color":"red","italic":true}
@@ -22,8 +22,8 @@ execute as @e[tag=twerk_tree.growth,scores={twerk_tree.new=200..}] run scoreboar
 
 # particles
 execute as @a[scores={twerk_tree.Twerk=1..,twerk_tree.check=1}] at @s as @e[type=armor_stand,tag=twerk_tree.growth,distance=..10] run scoreboard players add @s twerk_tree.part 1
-execute as @e[type=armor_stand,tag=twerk_tree.growth,scores={twerk_tree.part=3}] at @s run tellraw @s {"text":"Growth up!!!", "color":"green"}
-execute as @e[type=armor_stand,tag=twerk_tree.growth,scores={twerk_tree.part=4}] at @s run particle minecraft:heart ~ ~0.3 ~ 0.3 0.2 0.3 0 10
+execute as @e[type=armor_stand,tag=twerk_tree.growth] at @s run tellraw @s {"text":"Growth up!!!", "color":"green"}
+execute as @e[type=armor_stand,tag=twerk_tree.growth,scores={twerk_tree.part=4}] at @s run particle minecraft:heart ~ ~0.3 ~ 0.3 0.2 0.3 0 5
 execute as @e[type=armor_stand,scores={twerk_tree.part=4..}] run scoreboard players reset @s twerk_tree.part
 
 #Stop playings from abusing 
