@@ -21,6 +21,9 @@
 ✔ version 0.3.0
   <br> Grow trees. Credit	skunkmunkee | 2020-04-10
 
+✔ version 0.4.0
+<br> Auto Crops. Credit	TheWii  | 2020-04-10
+
 ***
 
 [Recycle Item](#recycle)
