@@ -7,7 +7,7 @@ execute if entity @a[scores={RLog=1}] run scoreboard players add @a[scores={RLog
 
 # the message thats sent the first time a player joins
 title @a title [{"text":"Welcome!","color":"yellow"}]
-title @a subtitle [{"text":"\u00A7kNNNNNNNN", "color":"gold"}, {"text":"Datapack by ","color":"white"}, {"text":"\u00A7oNamchok!!!","color":"light_purple"}, {"text":"\u00A7kNNNNNNNN", "color":"gold"}]
+title @a subtitle [{"text":"\u00A7kNNN  ", "color":"gold"}, {"text":"Datapack by ","color":"white"}, {"text":"\u00A7oNamchok!!!","color":"light_purple"}, {"text":"   \u00A7kNNN", "color":"gold"}]
 execute at @p run playsound minecraft:ui.toast.challenge_complete player @a ~ ~ ~ 100 0.0 1.0
 
 execute at @a[scores={Login=1}] run stopsound @p

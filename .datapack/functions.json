@@ -1,1 +1,1 @@
-{"hello":{"$func":["newlogin","newlogin","tick","enter","logout","text"]}}
+{"hello":{"$func":["newlogin","newlogin","tick","enter","logout","text"]},"twerk_tree":{"$func":["loaded","twerk_trees"]},"twerk_tree.raycast":{"$func":["hit_block","load","ray","start_ray"]}}
