@@ -1,3 +1,7 @@
 {
-    "values": ["twerk_tree:loaded", "twerk_tree.raycast:load"]
+    "values": [
+        "twerk_tree:loaded",
+        "twerk_tree.raycast:load",
+        "hello:load"
+    ]
 }
