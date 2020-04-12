@@ -4,4 +4,4 @@ execute if block ~ ~ ~ minecraft:nether_wart[age=0] run clear @s minecraft:nethe
 
 scoreboard players reset @s ac.nether_wart
 
-particle minecraft:happy_villager ~ ~-0.25 ~ 0.25 0.25 0.25 0 1 normal @a[tag=ac.particle]
+particle minecraft:elder_guardian ~ ~-0.25 ~ 0.25 0.25 0.25 0 1 normal @a[tag=ac.particle]

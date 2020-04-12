@@ -7,4 +7,4 @@ execute if block ~ ~ ~ minecraft:cocoa[age=0] run clear @s minecraft:cocoa_beans
 
 scoreboard players reset @s ac.cocoa
 
-particle minecraft:happy_villager ~ ~-0.25 ~ 0.25 0.25 0.25 0 1 normal @a[tag=ac.particle]
+particle minecraft:smoke ~ ~-0.25 ~ 0.25 0.25 0.25 0 1 normal @a[tag=ac.particle]

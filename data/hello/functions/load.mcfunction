@@ -2,6 +2,6 @@
 # When reload datapack
 # -------------------------------------- #
 
-tellraw @a [{"text":"Reload ","color":"gray"}, {"text":" Success!!","color":"green"}]
+tellraw @a [{"text":"\n\n Reload "}, {"text":" Success!!","color":"green"}]
 
 # -------------------------------------- #

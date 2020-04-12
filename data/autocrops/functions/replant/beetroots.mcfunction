@@ -4,4 +4,4 @@ execute if block ~ ~ ~ minecraft:beetroots[age=0] run clear @s minecraft:beetroo
 
 scoreboard players reset @s ac.beetroots
 
-particle minecraft:happy_villager ~ ~-0.25 ~ 0.25 0.25 0.25 0 1 normal @a[tag=ac.particle]
+particle minecraft:large_smoke ~ ~-0.25 ~ 0.25 0.25 0.25 0 3 normal @a[tag=ac.particle]
