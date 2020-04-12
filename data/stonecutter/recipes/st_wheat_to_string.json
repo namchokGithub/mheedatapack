@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:wheat"
+    },
+    "result": "minecraft:string",
+    "count": 5
+}
