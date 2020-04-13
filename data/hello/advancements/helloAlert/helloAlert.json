@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "Hello",
+        "description": "Show player name and text hello",
+        "icon": {
+            "item": "minecraft:cake",
+            "nbt": "{Enchantments:[{}]}"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "hello:hello",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
