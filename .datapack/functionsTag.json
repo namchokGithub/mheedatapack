@@ -1,1 +1,1 @@
-{ "minecraft": { "$tags": ["load", "tick"] } }
+{"minecraft":{"$tags":["load","tick"]},"hello":{"$tags":["load","loop"]}}
