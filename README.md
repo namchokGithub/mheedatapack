@@ -78,14 +78,14 @@
 ##### Smoker
 &nbsp; <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/5/50/Lit_Smoker.gif?version=c60f2d5eb176b6573c33a6803c7cb0a0" height="28" alt="smoker"> <br><br>
       1. Get bread from block of hay by smoked 🍞 <br><br>
-      ![8b1fc72715ac4530ccd0aa9f77b10e4a.jpg](https://s3-ap-southeast-1.amazonaws.com/img-in-th/8b1fc72715ac4530ccd0aa9f77b10e4a.jpg) <br>
+       <br>
 
 [Go to note](#note)
 
 ##### Stone Cutter
 &nbsp; <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/6/6b/Stonecutter.gif?version=a932b2962ac750b7fb1e31bf3fb7876f" height="28" alt="stonecutter"> <br><br>
       1. Cut cobblestone to get the bricks!! ✂ <br><br>
-      ![f0b5491ee5852f050afb4b623e88d319.jpg](https://s3-ap-southeast-1.amazonaws.com/img-in-th/f0b5491ee5852f050afb4b623e88d319.jpg)<br>
+     <br>
 
 [Go to note](#note)
 
